@@ -40,9 +40,16 @@ I am a software developer with a strong focus on **Multiplayer Game Development*
 
 ---
 
+### 📂 Featured Projects & Contributions
+* **Multiplayer Project (Photon Fusion):** Developed core networking logic and sync systems for a PC/VR title.
+* **Go Backend (MiniPOS):** Engineered a high-performance backend architecture for retail systems.
+* **VR Training Simulation:** Created immersive job training modules for Meta Quest using Unity.
+
+---
+
 ### 📈 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OzgurBoruzanci&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OzgurBoruzanci&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OzgurBoruzanci&layout=compact&theme=tokyonight" alt="Top Langs" height="175" />
 </p>
 
