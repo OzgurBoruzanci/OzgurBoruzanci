@@ -1,5 +1,5 @@
 # Hello 👋, I'm Özgür Boruzancı
-### Senior Game Developer & Backend Engineer
+### Game Developer & Backend Engineer
 
 I am a versatile software developer with a deep focus on **Multiplayer Game Development** and **Real-time Systems**. I specialize in bridging high-performance backend architectures with immersive game experiences across **VR, Mobile, and PC** platforms.
 
